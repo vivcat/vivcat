@@ -1,10 +1,8 @@
 <h1>Hello (^▽^)/</h1>
 
 <p align="center">
-  <a href="https://youtu.be/vbrII7frHV0?si=mwQJ2PpiUpG2NV03">
-    <img src="https://github.com/user-attachments/assets/048569a2-c3e8-4d9e-ac6b-f334fdf9e032" />
-  </a>
-</p>
+<img src="https://github.com/user-attachments/assets/01a938d4-1857-4824-817d-c98999ad2407">
+<br>
 
 <h2>i'm always using these things</h2>
 
