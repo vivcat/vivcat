@@ -1,8 +1,7 @@
 <h1>Hello (^▽^)/</h1>
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/01a938d4-1857-4824-817d-c98999ad2407">
-<br>
+![frieren](https://github.com/user-attachments/assets/24de4c02-1ae1-490d-a2fa-b9062dafbdd0)
+
 
 <h2>i'm always using these things</h2>
 
